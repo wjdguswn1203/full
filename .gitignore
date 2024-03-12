@@ -5,6 +5,7 @@
 c/*
 c/*.o
 c/**/*
+!c/*.c
 !c/gcc
 !c/gcc/*.c
 !c/gcc/lib
