@@ -3,7 +3,7 @@
 #include "b.h"
 
 extern void fun1() {
-    printf("Test2\n");
+    printf("Test2~!!\n");
 
 }
 
