@@ -1,7 +1,8 @@
 profile: /etc/profile
 	source $^
-	source ~/.source
+	source ~/.bashrc
 start:
+	source ~/.bashrc
 	lsnrctl start
 stop:
 	lsnrctl stop
