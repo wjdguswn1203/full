@@ -20,3 +20,7 @@ scala/**/project
 scala/**/target
 ## maven
 maven/**/target
+
+# node js
+node/**/node_modules/
+node/**/packaege-lock.json
